@@ -1,0 +1,7 @@
+.main { width:45%; padding-top: 20px; padding-bottom: 20px;}i.material-icons { color:#9b20b0;}.loginpage {display: flex; align-items: center;justify-content: center; position: absolute;top: 0; bottom: 0; margin: auto;left: 0;right: 0;background: #4b4b4b;}.logo { text-align: center;padding-bottom: 23px;}.logo img { width:40%;}.login-form {  box-shadow: 0 0 10px #ddd;
+padding: 15px; background: #FFF;padding-bottom: 20px; padding-top: 30px;}.cls-log{ background: #3c1152;border: 1px solid #3d1352;padding: 6px 18px;color: #FFF;margin-top: 25px;
+}.example-full-width{width: 100%;}i.material-icons.topspace { top: 7px;position: relative;}.forgot_group {text-align: center;padding-top: 15px;}a.cls-forgot { color:#4b4b4b;font-size: 16px;}span.forgot_link {color: #9b20b0; }
+.center {position: absolute;top: 76%;left: 50%; -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%); transform: translateX(-50%) translateY(-50%);}:host ::ng-deep .custom-spinner circle{ stroke:#9b20b0;}i.material-icons.topspace.loding { color: #dc3545;}
+h2.text-center.forgotpassword {font-size: 29px;padding-bottom: 12px;  text-align: center!important; color: #f44336; padding-bottom: 14px;
+}

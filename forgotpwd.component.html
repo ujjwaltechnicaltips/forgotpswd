@@ -1,0 +1,21 @@
+<div class="loginpage">
+<div class="main">
+<div class="col-md-12 col-sm-12">
+<div class="login-form">
+
+<form class="loginForm" #loginForm="ngForm" (ngSubmit)="OnSubmit(userId, password)">
+<h2 class="text-center forgotpassword">Forgot Password ?</h2> 
+<mat-form-field color="warn" flatLabel="auto"appearance="fill" class="example-full-width spaceloginF">
+<mat-label>change password</mat-label>
+<input matInput type="text" required  #password ngModel name="password" required>
+ </mat-form-field>
+<button type="submit" class="cls-log btn btn-block">change password 
+<i class="material-icons topspace loding">arrow_right_alt</i>
+</button>
+</form>
+</div>
+</div>
+</div>
+</div>
+
+
